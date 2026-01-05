@@ -1,7 +1,7 @@
 ## Yannis Fourtoulakis
 Transport, Logistics & Trade | Data Analytics & Applied Machine Learning
 
-Motion is the core of transport, trade, and supply chains. Every shipment, vessel, truck, or container creates data — and behind that data lie patterns, risks, inefficiencies, and opportunities.
+Motion is the core of transport, trade, and supply chains. Every shipment, vessel, truck, container, and the people operating them generates data. Behind that data lie patterns, risks, inefficiencies, and opportunities.
 
 In this GitHub profile I will showcase **applied data analytics, machine learning, and automation projects** grounded in **real-world logistics, transport, and international trade operations**
 The focus is not academic theory, but decision-support tools for professionals operating in complex, time-critical, and cost-sensitive environments.
