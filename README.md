@@ -1,7 +1,14 @@
-## Hi there 👋
+## Yannis Fourtoulakis
+I' Yannis,
+Transport, Logistics & Trade | Data Analytics & Applied Machine Learning
+
+Motion is the core of transport, trade, and supply chains. Every shipment, vessel, truck, or container creates data — and behind that data lie patterns, risks, inefficiencies, and opportunities.
+
+This GitHub profile showcases applied data analytics, machine learning, and automation projects grounded in real-world logistics, transport, and international trade operations.
+The focus is not academic theory, but decision-support tools for professionals operating in complex, time-critical, and cost-sensitive environments.
 
 <!--
-**Yannis4/Yannis4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
