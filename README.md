@@ -10,7 +10,7 @@ The focus is not academic theory, but decision-support tools for professionals o
 
 ## About Me
 
-I am a senior transport, logistics, and commercial professional with **14+ years of experience** across:
+I am a transport, logistics, and commercial professional with **14+ years of experience** across:
 - International logistics & multimodal transport  
 - Maritime & offshore operations  
 - Export-oriented B2B trade environments  
